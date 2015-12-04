@@ -1,0 +1,6 @@
+
+name = Current Posts 
+description = Show the currents posts
+core = 7.x
+
+configure = admin/config/content/current_posts
